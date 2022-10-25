@@ -29,7 +29,7 @@ pip install python-telegram-bot==20.0a0
 ```
 ### 6. Запуск бота
 ```powerShell
-python.exe "путь к файлу"/bot.py
+python.exe "путь к файлу"/main.py
 ```
 
-__Author:__ r-e-n-a-t
+__Author:__ Taron
